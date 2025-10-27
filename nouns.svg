@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#fff7f9"/><stop offset="1" stop-color="#f0f7ff"/></linearGradient>
+    <style>
+      .bg{fill:url(#grad)}
+      .card{fill:#fff;stroke:#e6e9f2;stroke-width:1;rx:12}
+      .title{font:700 28px 'Poppins', sans-serif; fill:#1b2b43}
+      .sub{font:500 14px 'Poppins', sans-serif; fill:#3b4a63}
+      .book{fill:#ffd6e8; stroke:#ff9ad6; stroke-width:1}
+    </style>
+  </defs>
+  <rect class="bg" width="100%" height="100%" rx="18"/>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="720" height="370" rx="14" fill="#fff" stroke="#eef3fb"/>
+    <g transform="translate(28,24)">
+      <rect x="0" y="0" width="140" height="110" rx="10" fill="#ffd6e8" stroke="#ff9ad6"/>
+      <rect x="14" y="14" width="112" height="18" rx="6" fill="#fff" opacity="0.9"/>
+      <rect x="14" y="42" width="112" height="8" rx="4" fill="#fff" opacity="0.8"/>
+      <text x="170" y="34" class="title">Nouns</text>
+      <text x="170" y="62" class="sub">Ilustración estilo libro — recursos educativos</text>
+    </g>
+    <g transform="translate(28,160)">
+      <rect x="0" y="0" width="640" height="160" rx="10" fill="#fbfcff"/>
+      <text x="18" y="36" font-family="Poppins, sans-serif" font-size="14" fill="#333">Usa esta imagen como apoyo visual para el tema "Nouns".</text>
+    </g>
+  </g>
+</svg>

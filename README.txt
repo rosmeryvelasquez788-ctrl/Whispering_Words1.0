@@ -1,0 +1,1 @@
+Contenido listo para subir. Reemplaza los archivos en /images con tus imágenes usando los nombres mostrados en las etiquetas <img>.
